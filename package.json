@@ -1,0 +1,19 @@
+{
+  "name": "react-viewport-rules",
+  "version": "0.1.0",
+  "description": "Simple module to help make your application responsive using parsable rules to set values conditionally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elhardoum/react-viewport-rules.git"
+  },
+  "author": "elhardoum",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/elhardoum/react-viewport-rules/issues"
+  },
+  "homepage": "https://github.com/elhardoum/react-viewport-rules#readme"
+}
